@@ -1,1 +1,0 @@
-from app.auth.views import auth_bp
